@@ -234,7 +234,7 @@ fn subst(t1 : TermDBI, t2 : TermDBI) -> TermDBI {
 }
 ```
 
-完整实现代码于此：
+完整实现代码于此：try.moonbitlang.cn/#a59bfd2e
 
 ## 改进
 
